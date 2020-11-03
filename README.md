@@ -7,6 +7,8 @@ Use this template if you need a quick developer / data science portfolio! Based 
 
 <https://raflisboa.github.io/site/>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8887d82c-d97b-48cb-ab0a-ddf5e705416f/deploy-status)](https://app.netlify.com/sites/raflisboa/deploys)
+
 ### Roadmap
 
 See the [open issues](https://github.com/evanca/machine-learning_optimizing-app-offers-with-starbucks/issues) for a list of proposed features (and known issues).

@@ -5,7 +5,8 @@ This is a short README.md to introduce you to my personel website.
 
 Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
 
-<https://raflisboa.github.io/site/>
+<https://raflisboa.github.io/site/> (pure Jekyll version, by GitHub Pages)
+<https://raflisboa.netlify.app/> (Netlify version)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8887d82c-d97b-48cb-ab0a-ddf5e705416f/deploy-status)](https://app.netlify.com/sites/raflisboa/deploys)
 

@@ -3007,14 +3007,10 @@ h6 {
   /* Footer Area css
   ============================================================================================ */
   .footer_area {
-    background-color: #010101;
-    height: 80px;
-    width: 1800px;
-    position: relative;
-    z-index: 999;
-    margin-left: auto; /* linha modificada */
-    margin-right: auto; /* linha adicionada */
-}
+    padding-top: 80px !important;
+    padding-bottom: 80px !important;
+    background-image: none !important;
+    background-color: #fcf8ff; }
 
   /* Blog page Area css
   ============================================================================================ */
@@ -3056,7 +3052,7 @@ h6 {
     margin-bottom: 30px; }
 
   .footer_area .footer_inner {
-    margin-bottom: 0px; }
+    margin-bottom: -30px; }
 
   .news_widget {
     padding-left: 0px; }
@@ -3114,14 +3110,14 @@ h6 {
   /* Footer Area css
   ============================================================================================ */
   .footer_area .f_title {
-    margin-bottom: 5px; }
+    margin-bottom: 20px; }
 
   .footer-bottom {
     text-align: center; }
 
   .footer-bottom .footer-social {
     text-align: center;
-    margin-top: 5px; }
+    margin-top: 15px; }
 
   /* End End Footer Area css
   ============================================================================================ */
@@ -3194,8 +3190,8 @@ h6 {
   .footer-area {
     padding: 70px 0px; }
 
-  /* .news_widget { */
-    /* padding-left: 0 !important; } */
+  .news_widget {
+    padding-left: 0 !important; }
 
   /* End End Footer Area css
   ============================================================================================ */
